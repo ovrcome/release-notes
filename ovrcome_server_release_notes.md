@@ -12,6 +12,12 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.1.1] - 2024-10-30 - Live session fixes
+
+### Fixed
+* Fixes link used when initiating a new live session with a smartphone user.
+* Fixes an issue where access codes weren't visible in the Clinician Portal
+
 ## [1.1.0] - 2024-10-29 - Live session call quality improvements
 
 ### Added

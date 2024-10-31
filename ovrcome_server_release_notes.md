@@ -12,7 +12,23 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [1.1.2] - 2024-10-31 -  Administration UI improvements Draft
+## [1.2.0] - 2024-10-31 - Video and Hierarchy Updates
+
+### Added
+
+- API extension to support future live session features.
+
+### Changed
+
+- Videos can now be deleted from the view page, instead of only the edit page.
+- Shows a more useful error message when a user attempts to register with an existing email.
+
+### Fixed
+
+- A bug where the list of triggers did not display correctly on the VR Library video modal.
+- A bug which was unintentionally preventing access to the smartphone live session sometimes.
+
+## [1.1.2] - 2024-10-31 - Administration UI improvements
 
 ### Added
 * Administration UI improvements.

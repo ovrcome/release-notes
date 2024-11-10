@@ -12,6 +12,23 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.3.0] - 2024-11-11 - Subscription and Shipping Updates
+
+### Added
+
+- Adjusted some of the copy in the portal now that we're coming out of beta
+- Added some functionality to make it clearer on how to add videos to hierarchies from the library page
+- Added further admin functionality to allow for easier setup of clinicians and organizations
+
+### Changed
+
+- Made some improvements to the shipping process for headsets
+
+### Fixed
+
+- Fixed a bug that prevented clients from signing up if they had a previous order
+- Fixed a bug preventing video modals from scrolling if the video description was too long
+
 ## [1.2.0] - 2024-10-31 - Video and Hierarchy Updates
 
 ### Added

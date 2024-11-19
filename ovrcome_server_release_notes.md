@@ -12,6 +12,16 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.5.0] - 2024-11-20 - Improve Clinician Onboarding Process
+
+## Changelog
+
+### Added
+
+- Updated the clinician onboarding process. When signing up for a clinic, there is now one new field (“How did you hear about us”), which has been added to the form
+
+- When inviting a new clinician to your clinic, these clinicians must fill in their own onboarding form, with T&Cs clearly shown, to make their onboarding process cleaner
+
 ## [1.4.3] - 2024-11-19 - Allow clinic admins to remove clinician access to clients
 
 ## Changelog

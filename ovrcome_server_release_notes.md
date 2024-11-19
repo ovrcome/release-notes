@@ -12,6 +12,14 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.4.2] - 2024-11-19 - Patch to fix a bug caused by the previous release related to hierarchy reorder
+
+## Changelog
+
+### Fixed
+
+- A bug which was causing errors when trying to reorder a hierarchy in some situations.
+
 ## [1.4.1] - 2024-11-19 - Added new organisation feature flags
 
 ## Changelog

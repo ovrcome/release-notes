@@ -12,6 +12,16 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.8.2] - 2024-11-27 - Client Management Improvements
+
+### Added
+
+* Allow clinic admins to grant access to clients to other clinicians in their clinic.
+
+### Fixed
+
+* Optimisations to page load time.
+
 ## [1.8.1] - 2024-11-25 - Subscription Improvements
 
 ### Added

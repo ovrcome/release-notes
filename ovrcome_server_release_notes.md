@@ -12,6 +12,16 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.8.4] - 2024-12-03 - Bug fixes for subscriptions and set-up advice
+
+### Fixed
+- Fixed an issue preventing clinicians from creating a smartphone subscription for a client after an expired trial
+- Fixed an issue where the clinic admin page could render incorrectly when handling a second request to delete the same client-clinician association in quick succession
+
+### Changed
+- Subscription tab more clearly shows the distinction between a client’s invitation state and their subscription state
+- Device call-to-action messages adjusted so that clinicians are advised to create a populated hierarchy while waiting for their clinic to be approved
+
 ## [1.8.3] - 2024-11-29 - Wording Tweaks
 
 ### Fixed

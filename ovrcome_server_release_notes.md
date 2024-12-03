@@ -12,6 +12,11 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.8.5] - 2024-12-03 - Bug fix for smartphone live session
+
+### Fixed
+- Fixed an issue preventing smartphone live sessions from connecting when clinician and client share the same user email
+
 ## [1.8.4] - 2024-12-03 - Bug fixes for subscriptions and set-up advice
 
 ### Fixed

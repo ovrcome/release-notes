@@ -12,6 +12,14 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.9.0] - 2024-12-04 - Subscription Visibility Improvements
+
+### Added
+
+* Clinician billing page now shows the status of your trials and subscriptions.
+* Clinician billing page now shows the status of your client’s trials and subscriptions.
+* Subscription detail page shows relevant subscription information, including upcoming billing dates and amounts, and previous invoices.
+
 ## [1.8.5] - 2024-12-03 - Bug fix for smartphone live session
 
 ### Fixed

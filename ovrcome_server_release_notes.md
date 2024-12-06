@@ -12,6 +12,13 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.9.3] - 2024-12-06 - Bug fix for iPhone 8 live sessions
+
+### Fixed
+
+- An issue that was preventing live session invites from showing up on iPhone 8 devices
+
+
 ## [1.9.2] - 2024-12-06 - Clinician Portal Improvements
 
 ### Fixed
@@ -23,7 +30,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [1.9.1] - 2024-12-05 - Backend Improvements
 
-## #Fixed
+### Fixed
 
 * Improvements to developer experience.
 * Improvements to logging.

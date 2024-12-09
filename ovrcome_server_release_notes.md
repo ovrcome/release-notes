@@ -12,6 +12,32 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.10.0] - 2024-12-06 - Live session improvements
+
+### Added
+
+- Added new audio controls for clinicians in mobile live sessions:
+  - Allows clinicians to:
+    - Adjust volume/Mute/Unmute client microphone
+    - Mute/Unmute their own microphone
+    - Adjust volume/Mute/Unmute video audio for client
+    - Adjust volume/Mute/Unmute video audio for themselves
+- Added an exit button to navigate backward when creating a live session.
+
+### Fixed
+
+- Fixed a bug in live sessions where playback would sometimes get stuck in a paused state indefinitely on standalone headsets.
+- Fixed a bug in live sessions where hierarchy list scroll bar position would change when clicking on a video in hierarchies with a lot of videos.
+- Fixed a bug in live sessions where scroll bar position would be reset when the hierarchy is reloaded.
+- Fixed a bug in live sessions where clinicians would sometimes see a different number next to the video title than was shown in the hierarchy panel for that video.
+
+### Changed
+
+- Improved video timeline seeking functionality in live sessions.
+- Update minimum required mobile app version to 1.66.0.
+- Update standalone headset Web XR live session app version from 0.15.3 to 0.15.6.
+- Update clinician portal live session app version from 0.9.2 to 0.9.5.
+
 ## [1.9.3] - 2024-12-06 - Bug fix for iPhone 8 live sessions
 
 ### Fixed

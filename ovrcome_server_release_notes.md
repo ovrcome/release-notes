@@ -12,6 +12,19 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.10.2] - 2024-12-06 - Bugfixes and subscription updates
+
+### Fixed
+
+- A bug which was causing the client overview page to error sometimes
+- A bug that was sometimes causing errors when logging in on standalone headsets
+
+### Added
+
+- A new event for when a subscription trial for a standalone headset has been activated, so that relevant emails can be triggered
+- Supporting infrastructure for taking SUDS ratings when assessing if a hierarchy video is to be considered completed or not
+- Ability for clinicians to cancel subscriptions for themselves and their clients
+
 ## [1.10.1] - 2024-12-06 - Live session instruction pages
 
 ### Added

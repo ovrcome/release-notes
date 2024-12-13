@@ -12,7 +12,17 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [1.10.2] - 2024-12-06 - Bugfixes and subscription updates
+## [1.11.0] - 2024-12-13 - Pay What You Want
+
+### Added
+
+* New “pay what you want” promotion for clinician subscriptions.
+
+### Fixed
+
+* Subscription improvements.
+
+## [1.10.2] - 2024-12-12 - Bugfixes and subscription updates
 
 ### Fixed
 
@@ -25,13 +35,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Supporting infrastructure for taking SUDS ratings when assessing if a hierarchy video is to be considered completed or not
 - Ability for clinicians to cancel subscriptions for themselves and their clients
 
-## [1.10.1] - 2024-12-06 - Live session instruction pages
+## [1.10.1] - 2024-12-11 - Live session instruction pages
 
 ### Added
 
 - Instruction pages for connecting to clients through both smartphone and standalone headset live sessions
 
-## [1.10.0] - 2024-12-06 - Live session improvements
+## [1.10.0] - 2024-12-09 - Live session improvements
 
 ### Added
 

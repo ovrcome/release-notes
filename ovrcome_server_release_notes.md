@@ -12,6 +12,15 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.12.0] - 2024-12-13 - Upgrade to Unity 6
+
+### Changed
+
+- Upgrade all Unity apps to Unity 6
+- Update minimum required mobile app version to 1.67.0.
+- Update standalone headset Web XR live session app version from 0.15.6 to 0.16.0.
+- Update clinician portal live session app version from 0.9.5 to 0.10.0.
+
 ## [1.11.1] - 2024-12-13 - Pay What You Want Improvements
 
 ### Fixed

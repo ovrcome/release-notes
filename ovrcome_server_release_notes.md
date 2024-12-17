@@ -16,7 +16,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
-- Add a new tracking event for when a standalone headset subscription is begun
+- Trigger an event for internal tracking when a clinician activates a standalone headset subscription
 
 ## [1.12.0] - 2024-12-16 - Upgrade to Unity 6
 

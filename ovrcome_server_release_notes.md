@@ -16,7 +16,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
-- Add a new segment event for when a standalone headset subscription is begun
+- Add a new tracking event for when a standalone headset subscription is begun
 
 ## [1.12.0] - 2024-12-16 - Upgrade to Unity 6
 

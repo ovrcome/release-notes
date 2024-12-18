@@ -1,6 +1,6 @@
 # Release notes for oVRcome's Server Software
 
-This file contains public release notes for oVRcome's mobile app for Android, as released on the Google Play Store.
+This file contains public release notes for oVRcome's mobile app. CHanges apply to both Android and iOS versions, except where noted.
 
 For each release we note where we've Added, Changed, Fixed, or Removed code.
 

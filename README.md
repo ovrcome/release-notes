@@ -6,5 +6,6 @@ This repository contains public release notes for oVRcome software.
 - [D2C Server](d2c_server_release_notes.md)
 - [Mobile App](mobile_app_release_notes.md)
 - [Clinician Live Session App](clinician_live_session_app_release_notes.md)
+- [VR Web App for Standalone Headsets](vr_web_app_for_standalone_headsets_release_notes.md)
 
 Specific release notes for oVRcome's mobile apps are available in the iOS and Google Play app stores

@@ -9,7 +9,7 @@ We also note compatibility of each release with the Clinician Live Session App.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.16.0] - TODO: release date - TODO: title
+## [0.16.0] - 2024-12-15 - TODO: title
 
 ### Compatibility
 - Compatible with VR web app for standalone headsets TODO:version
@@ -30,7 +30,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - TODO
 
-## [0.15.6] - TODO: release date - TODO: title
+## [0.15.6] - 2024-12-09 - TODO: title
 
 ### Compatibility
 - Compatible with VR web app for standalone headsets v0.9.5
@@ -49,6 +49,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - In rare cases the Portal and WebXR app can become out of sync without correction.
 - The WebXR app can join headless live sessions.
 - There are scenarios where Vivox will not correctly log in and continuously fail until the browser is refreshed.
+
+## [0.15.3] - 2024-10-28 - TODO: title
+
+TODO: details
 
 ## [0.15.2] - 2024-10-16 - TODO: title
 
@@ -70,3 +74,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Removed
 
 - TODO
+
+## [0.15.1] - 2024-10-09 - TODO: title
+
+TODO: details
+
+## [0.15.0] - 2024-10-08 - TODO: title
+
+TODO: details
+
+## [0.14.1] - 2024-10-01 TODO: may be earlier - TODO: title
+
+TODO: details

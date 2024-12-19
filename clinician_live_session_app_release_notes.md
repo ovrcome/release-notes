@@ -9,7 +9,7 @@ We also note compatibility of each release with the Mobile App and the VR web ap
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.10.0] - TODO: release date - TODO: title
+## [0.10.0] - 2024-12-15 - TODO: title
 
 ### Compatibility
 - Compatible with VR web app for standalone headsets TODO:version
@@ -31,7 +31,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - TODO
 
-## [0.9.5] - TODO: release date - TODO: title
+## [0.9.5] - 2024-12-09 - TODO: title
 
 ### Compatibility
 
@@ -58,7 +58,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Closing the live session causes headless live session to continue to be available.
 - There are scenarios where Vivox will not correctly log in and continuously fail until the browser is refreshed.
 
-## [0.8.0] - TODO: release date - TODO: title
+## [0.9.2] - 2024-11-14 - TODO: title
+
+TODO: details
+
+## [0.8.0] - 2024-10-28 - TODO: title
 
 ### Compatibility
 
@@ -85,7 +89,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Closing the live session causes headless live session to continue to be avaliable.
 - There are scenarios where Vivox will not correctly log in and continuously fail until the browser is refreshed.
 
-## [0.7.0] - TODO: release date - TODO: title
+## [0.7.0] - 2024-10-08 - TODO: title
 
 ### Compatibility
 

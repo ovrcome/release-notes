@@ -12,6 +12,20 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.12.5] - 2024-01-09 - Clinician portal UX improvements
+
+### Added
+Ability to create video descriptions using html to format them nicely
+
+- The ability to update and change the client address during checkout
+
+### Fixed
+- The clinic menu on the VR library page not matching the menu throughout the rest of the portal
+- Updated the T&Cs links to go the current terms and conditions page
+
+### Removed
+- The version check for the native quest and pico apps since they’re no longer being used
+
 ## [1.12.3] - 2024-12-19 - Subscription bug fixes
 
 ### Fixed

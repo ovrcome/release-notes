@@ -12,6 +12,21 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.13.0] - 2024-01-16 - Clinician portal improvements
+
+### Added
+
+* Added ability to purchase a smartphone subscription before the end of a free trial.
+
+### Fixed
+
+* Fixed inconsistencies when switching between client-pays and clinician-pays for smartphone subscriptions.
+
+### Removed
+
+* Removed a deprecated database field.
+* Removed old live session code.
+
 ## [1.12.5] - 2024-01-09 - Clinician portal UX improvements
 
 ### Added

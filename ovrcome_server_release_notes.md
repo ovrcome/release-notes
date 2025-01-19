@@ -12,7 +12,18 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [1.13.0] - 2024-01-16 - Clinician portal improvements
+## [1.14.0] - 2025-01-20 - Clinician portal improvements
+
+### Added
+
+* SUDs ratings are now taken into account when marking a video as completed or locked (previously a video just had to be watched all the way through for it to be completed)
+*Made it easier and more clear to add videos to hierarchies. The “add to hierarchy” button is now not hidden behind a scroll, and you can add videos directly from the thumbnail by clicking the “+” icon
+
+### Fixed
+
+* Fixed a bug where the video counts in hierarchies could display wrong, since it was counting inactive videos as well as active videos.
+
+## [1.13.0] - 2025-01-16 - Clinician portal improvements
 
 ### Added
 

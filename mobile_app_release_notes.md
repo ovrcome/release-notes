@@ -9,6 +9,28 @@ As the Mobile App supports live sessions between clinicians and clients, we also
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.68.0] - 2025-01-23 - Various UI/UX Improvements
+### Compatibility
+
+- Compatible with Clinician Live Session App v0.10.0
+
+### Added
+* Send through device info with model and name to the server to help with troubleshooting
+  
+### Changed
+* Updated the sign in message copy to suit email or access code
+
+### Fixed
+* Fixed issue where children toolbox images were squashed
+
+* Fixed bug where if you used your phones back button you could log yourself out of the app on the home page
+
+* Fixed bug where in the mild depression program, playing a video would always start playing the first video in the playlist
+
+* Fixed bug where you could log in to the app even on an old version where you were required to update
+
+* Fixed bug where anxiety panel would still show, even when the suds_ratings_enabled boolean for the clients organisation was set to false.
+
 ## [1.67.0] - 2024-12-16 - Update for Unity 6
 
 ### Compatibility

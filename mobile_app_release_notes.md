@@ -9,6 +9,22 @@ As the Mobile App supports live sessions between clinicians and clients, we also
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.69.0] - 2025-02-03 - Improvements to onboarding and logging in
+### Compatibility
+
+- Compatible with Clinician Live Session App v0.11.0
+  
+### Changed
+* Updated the RANZP research link on the start welcome page so that it didn't go to an out of date page
+* Swap the order of the login button and create account button, and make create account less prominent to reduce the number of clinician clients accidently creating an account
+* Update the user type selection screen to direct clinicians and clinician clients to the right pages
+* Update the login profile select screen to make it clearer what accounts you can choose to log in to
+* Update copy for the headset purchase selection page to give the size of the phones that can fit in the headset
+* Update the layout of the start welcome screen in the mobile app so that it's more responsive to different phone screen sizes
+
+### Fixed
+* Fix a bug where the user/exists endpoint wouldn't recognise user's emails if you entered some characters in uppercase.
+
 ## [1.68.0] - 2025-01-23 - Various UI/UX Improvements
 ### Compatibility
 

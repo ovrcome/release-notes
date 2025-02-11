@@ -12,6 +12,22 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.18.0] - 2025-02-012 - Clinician Portal Tweaks and Improved Live Session Step Logic
+
+### Added:
+
+- Added a segment tracking event for when a clinician uses the live session preview functionality for a hierarchy
+
+### Changed:
+
+- Updated the live session for smartphone instruction check list. Refactored the logic and split it out into further steps
+
+- If triggers haven’t been confirmed, don’t ask a clinician to confirm them if they’re just toggling the hierarchy for homework toggle on and off
+
+### Fixed:
+
+- Fixed a bug where the subscription tab was showing/hiding incorrectly and was confusing
+
 ## [1.17.1] - 2025-02-03 - Extend Pay-What-You-Want Offer
 
 ### Added

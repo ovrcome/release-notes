@@ -12,7 +12,15 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [1.18.0] - 2025-02-012 - Clinician Portal Tweaks and Improved Live Session Step Logic
+## [1.19.0] - 2025-02-17 - Hosting and API Improvements
+
+### Changed
+
+- Changes to server deployment and hosting process.
+- Backend changes to allow for additional webhooks.
+- Better request validation for video views API.
+
+## [1.18.0] - 2025-02-12 - Clinician Portal Tweaks and Improved Live Session Step Logic
 
 ### Added:
 

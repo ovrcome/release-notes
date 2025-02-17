@@ -12,6 +12,17 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.20.0] - 2025-02-18 - VR Library and Hierarchy Building Improvements
+
+### Added:
+
+- Added a “+” icon to quickly add videos by clicking on their thumbnail in the VR library
+- Added a “select all” button to the trigger modal so all triggers can be selected for filtering
+
+### Removed:
+
+- Removed a ui tooltip which is no longer used
+
 ## [1.19.0] - 2025-02-17 - Hosting and API Improvements
 
 ### Changed

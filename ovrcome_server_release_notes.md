@@ -12,6 +12,11 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.20.1] - 2025-02-19 - Add new Javascript function for Unity Live Session App
+
+### Added
+- Added a new javascript function for the Unity Live Session app which goes back 2 pages. This is so you can click “return to portal” and skip over the live session steps page 
+
 ## [1.20.0] - 2025-02-18 - VR Library and Hierarchy Building Improvements
 
 ### Added:

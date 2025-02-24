@@ -12,6 +12,18 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.21.0] - 2025-02-25 - VR Library Improvements
+
+### Added
+
+* Groundwork for 8k adaptive bit-rate streaming of VR.
+* Show search terms when searching in VR library.
+
+### Changed
+
+* More consistent messaging around for clinics pending approval.
+* Backend changes for recording live session events.
+
 ## [1.20.1] - 2025-02-19 - Add new Javascript function for Unity Live Session App
 
 ### Added

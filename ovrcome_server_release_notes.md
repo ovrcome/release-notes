@@ -12,6 +12,32 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.24.0] - 2025-03-07 - Record video search history
+
+### Added
+
+- Record search history from the video library and hierarchy edit pages for internal analytics.
+
+### Fixed
+
+- Improve messaging when clients attempt to log in to clinician portal.
+- Fix subscription status display during certain rare scenarios with multiple subscriptions for a client.
+
+## [1.23.0] - 2025-02-28 - Email for shipping tracking number
+
+### Added
+
+- Send shipping tracking number email when headsets are shipped.
+- Administration UI improvements for video management.
+
+### Fixed
+
+- Fix rare error in administration UI.
+
+### Changed
+
+- Simplify hosting configuration.
+
 ## [1.22.0] - 2025-02-25 - Administration Improvements
 
 ### Added
@@ -33,7 +59,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.20.1] - 2025-02-19 - Add new Javascript function for Unity Live Session App
 
 ### Added
-- Added a new javascript function for the Unity Live Session app which goes back 2 pages. This is so you can click “return to portal” and skip over the live session steps page 
+- Added a new javascript function for the Unity Live Session app which goes back 2 pages. This is so you can click “return to portal” and skip over the live session steps page
 
 ## [1.20.0] - 2025-02-18 - VR Library and Hierarchy Building Improvements
 
@@ -108,7 +134,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 
 - Client reports page now reflows to have better layout on smaller screens
- 
+
 ## [1.15.0] - 2025-01-21 - Registration Improvements
 
 ### Added

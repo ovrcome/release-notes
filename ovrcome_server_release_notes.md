@@ -12,6 +12,20 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+
+## [1.25.0] - 2025-03-12 - Clinician Portal Improvements
+
+### Added
+
+- Collect feedback from clinicians when purchasing a subscription.
+
+### Fixed
+
+- Fixed check to determine whether a clinician has logged into a headset or not.
+- Small tweaks to third party client-success integrations.
+- Improved messaging when purchasing a client subscription before a trial has ended.
+
+
 ## [1.24.0] - 2025-03-07 - Record video search history
 
 ### Added

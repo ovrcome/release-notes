@@ -9,6 +9,15 @@ As the Mobile App supports live sessions between clinicians and clients, we also
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.69.3] - 2025-03-12 - Update to Google Cardboard and VR
+### Compatibility
+
+- Compatible with Clinician Live Session App v0.11.0
+  
+### Changed
+* Updated Google Cardboard from v1.26.0 to v1.28.0 to be compatible with newer phone models
+* Made some tweaks to the VR aiming to improve the experience
+
 ## [1.69.0] - 2025-02-03 - Improvements to onboarding and logging in
 ### Compatibility
 

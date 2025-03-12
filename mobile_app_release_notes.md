@@ -18,6 +18,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 * Updated Google Cardboard from v1.26.0 to v1.28.0 to be compatible with newer phone models
 * Made some tweaks to the VR aiming to improve the experience
 
+### Added
+* Added support for Push Notifications
+
 ## [1.69.0] - 2025-02-03 - Improvements to onboarding and logging in
 ### Compatibility
 

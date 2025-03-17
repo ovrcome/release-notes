@@ -9,6 +9,19 @@ We also note compatibility of each release with the Mobile App and the VR web ap
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.13.0] - 2025-03-17 - Live Session Improvements
+
+### Added
+
+- Tooltips for live session UI elements.
+- Easier way to exit to lobby in a live session.
+- Easier way to return to portal in a live session.
+
+### Fixed
+
+- Improvements to audio state synchronising between live sessions.
+- UI and navigation improvements to live session app.
+
 ## [0.10.0] - 2024-12-15 - TODO: title
 
 ### Compatibility

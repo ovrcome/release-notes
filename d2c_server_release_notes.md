@@ -5,6 +5,15 @@ This file contains public release notes for oVRcome's direct-to-consumer Server 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.0.6] - 2025-03-18 - Stability Improvements
+
+### Changed
+
+* Upgrade of infrastructure tooling to latest version.
+* Fix sporadic request error when processing payments.
+* Improvements to children & adolescents program subscription handling.
+* Infrastructure stability improvements.
+
 ## [1.0.5] - 2025-03-03 - Subscription Bug Fixes
 
 ### Fixed

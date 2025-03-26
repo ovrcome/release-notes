@@ -12,6 +12,13 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.29.0] - 2025-03-24 - Clinician Portal Improvements
+
+### Fixed
+
+- Fix recording of live session video views in certain rare scenarios.
+- Fix issue with onboarding in certain rare scenarios.
+
 ## [1.28.0] - 2025-03-24 - Clinician Portal Improvements
 
 ### Added

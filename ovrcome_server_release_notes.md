@@ -12,6 +12,18 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.30.0] - 2025-01-01 - Clinician Portal UI Improvements
+
+### Changed
+
+- VR Library page, Hierarchy page, and Add Environments page updated to use a more responsive layout, and adjusted for responsive behaviour.
+- Responsive behaviour for video preview modal.
+- Overall responsive layout applied to other pages where a clinician is logged in, but content within these pages has not been tuned for responsive behaviour.
+
+### Fixed
+
+- Standardisation of CSS and JS code, resulting in minor cosmetic changes but no functional changes.
+
 ## [1.29.0] - 2025-03-24 - Clinician Portal Improvements
 
 ### Fixed

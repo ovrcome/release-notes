@@ -12,7 +12,27 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [1.31.3] - 2025-01-08 - Clinician Portal UI Improvements
+## [1.31.5] - 2025-04-28 - Clinician Portal Improvements
+
+### Added
+
+* Improvements to logging for customer support.
+* Improvements to logging of client experience when watching videos.
+* Improved live session data shown in client reporting dashboard
+
+### Changed
+
+* Improvements to developer experience.
+* Improvements to accuracy of logging.
+* Improvements to invitation process for existing clients.
+
+## [1.31.4] - 2025-04-08 - Live Session Fixes
+
+### Fixed
+
+- Fix authentication issue with QuestPro standalone headsets during live sessions.
+
+## [1.31.3] - 2025-04-08 - Clinician Portal UI Improvements
 
 ### Added
 
@@ -22,7 +42,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 * Improvements to display of video titles on hierarchy detail page.
 
-## [1.31.2] - 2025-01-02 - Subscription Improvements
+## [1.31.2] - 2025-04-02 - Subscription Improvements
 
 ### Fixes
 
@@ -32,7 +52,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Security updates for some build dependencies.
 
-## [1.31.1] - 2025-01-01 - Live Session Improvements
+## [1.31.1] - 2025-04-01 - Live Session Improvements
 
 ### Added
 
@@ -46,7 +66,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Live session app version: 0.14.1
 
-## [1.31.0] - 2025-01-01 - Live Session Improvements
+## [1.31.0] - 2025-04-01 - Live Session Improvements
 
 ### Added
 
@@ -57,7 +77,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Live session app version: 0.14.0
 - WebXR app version: 0.18.0
 
-## [1.30.0] - 2025-01-01 - Clinician Portal UI Improvements
+## [1.30.0] - 2025-04-01 - Clinician Portal UI Improvements
 
 ### Changed
 

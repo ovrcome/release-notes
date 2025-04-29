@@ -12,6 +12,28 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.32.1] - 2025-04-30 - Clinician Portal Improvements
+
+### Changed
+
+* Tweaks to shipping notification emails.
+* Improvements to developer tooling.
+* Improvements to searching in admin UI.
+* Updated the calendly post-approval link in the portal
+* Changed meeting length copy from 15 minutes to 30 minutes
+* Add video ID in video modal
+
+## [1.32.0] - 2025-04-28 - Smart Hierarchy Generator for Clinician Portal
+
+### Added
+
+* New tool: Smart Hierarchy Generator, for clinicians to create a hierarchy directly from their prompts.
+
+### Fixed
+
+* Clinician portal UI improvements.
+* Fixes to testing process.
+
 ## [1.31.5] - 2025-04-28 - Clinician Portal Improvements
 
 ### Added

@@ -12,6 +12,20 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.33.0] - 2025-04-30 - Clinician Portal Improvements
+
+### Changed
+
+* Trigger search status is saved between hierarchies, so when returning to modify a hierarchy in the hierarchy edit page, the previous trigger search filter history is loaded.
+* Updated the smartphone live session explanation copy to better explain the steps needed to start a live session.
+* Improvements to server logging, removed deprecated logging system.
+* Updated the client/show call to add the client’s email and whether they have an access code.
+* Improvements to developer environment.
+
+### Fixed
+
+* Fixed a bug where the trigger filter wasn’t being applied when first loading the hierarchy edit page.
+
 ## [1.32.1] - 2025-04-30 - Clinician Portal Improvements
 
 ### Changed

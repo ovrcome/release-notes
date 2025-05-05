@@ -1,4 +1,4 @@
-# Release notes for oVRcome's Server Software
+# Release notes for oVRcome's Mobile App
 
 This file contains public release notes for oVRcome's mobile app. CHanges apply to both Android and iOS versions, except where noted.
 

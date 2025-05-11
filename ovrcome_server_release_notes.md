@@ -12,6 +12,18 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.33.1] - 2025-05-12 - Minor Clinician Portal Improvements
+
+### Added:
+* Added a “browser” field to the Clinic User table which is populated on authentication so we can better help clinicians diagnose any issues
+
+### Changed:
+* After starting a trial, redirect back to the location the clinician navigated to the trial from
+* Remove the “live” from “live preview”
+
+### Fixed:
+* Fixed a bug where hierarchy dropdown could be cut off
+
 ## [1.33.0] - 2025-04-30 - Clinician Portal Improvements
 
 ### Changed

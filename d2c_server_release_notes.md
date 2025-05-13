@@ -5,6 +5,23 @@ This file contains public release notes for oVRcome's direct-to-consumer Server 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.0.11] - 2025-05-13 - Backend Improvements
+
+### Added
+
+- Preparations for D2C special offers.
+
+### Changed
+
+- Tweaks to testing process.
+- Fixed invalid registration path for parents program.
+- Fixed handling of subscriptions for subscriptions purchased in-app.
+
+### Removed
+
+- Remove bespoke reporting for a discontinued program.
+- Removed deprecated code from very early app release.
+
 ## [1.0.10] - 2025-03-28 - Device Compatibility Search Improvements
 
 ### Fixed

@@ -5,6 +5,17 @@ This file contains public release notes for oVRcome's direct-to-consumer Server 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.1.1] - 2025-05-20 - Backend Improvements
+
+### Added
+
+* Improved deploy process.
+
+### Fixed
+
+* Fix access issues for annual and in-app subscriptions.
+* Improvements to password reset process.
+
 ## [1.1.0] - 2025-05-15 - Backend Improvements
 
 ### Changed

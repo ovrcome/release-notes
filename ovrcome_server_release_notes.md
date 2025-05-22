@@ -12,6 +12,13 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.33.2] - 2025-05-22 - v1.33.2
+
+### Added
+
+- Additional logging of live session lifecycle events.
+- Improvements to developer experience.
+
 ## [1.33.1] - 2025-05-12 - Minor Clinician Portal Improvements
 
 ### Added:

@@ -12,6 +12,12 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.33.3] - 2025-05-26 - Backend Improvements
+
+### Fixed
+
+- Fix issue inviting clients for a second, third time.
+
 ## [1.33.2] - 2025-05-22 - v1.33.2
 
 ### Added

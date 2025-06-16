@@ -12,6 +12,24 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.0.0] - 2025-06-16 - Introducting free and premium subscriptions
+
+### Added
+
+- New invite process for inviting users to oVRcome and ordering a headset.
+- Improvements to administration of clinics.
+
+### Removed
+
+- Removed subscription requirements from portal and for starting a live session.
+
+### Changed
+
+- Revamped billing page.
+- Improved sign up process for qualifying clinics.
+- Improved/simplified process to start live sessions.
+- Improved messaging on next steps when adding clients.
+
 ## [1.34.2] - 2025-06-15 - Admin management improvements
 
 ### Added

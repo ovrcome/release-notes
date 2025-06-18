@@ -12,6 +12,17 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.0.2] - 2025-06-18 - Admin management improvements
+
+### Added
+
+- Improvements to tag and category management in administration interface.
+- Improvements to clinic administration interface.
+
+### Fixed
+
+- Fix issue with logging of categories.
+
 ## [2.0.1] - 2025-06-16 - Sign up fixes
 
 ### Fixed

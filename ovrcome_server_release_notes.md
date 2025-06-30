@@ -12,6 +12,19 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.0.3] - 2025-06-30 - Admin management improvements
+
+### Added
+
+- Homework toggle added to client overview page.
+- Improvements to HQ record navigation.
+- Additional CRM events during user journey.
+
+### Fixed
+
+- Improvements to HQ record editing.
+- Improvements to auto approval process.
+
 ## [2.0.2] - 2025-06-18 - Admin management improvements
 
 ### Added

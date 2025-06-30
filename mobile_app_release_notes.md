@@ -9,6 +9,25 @@ As the Mobile App supports live sessions between clinicians and clients, we also
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.70.1] - 2025-07-01 - Updates to VR Process
+### Compatibility
+
+- Compatible with Clinician Live Session App v0.15.0
+
+### Fixed
+- Fix a bug where the incorrect subscription details on the subscription page could be shown if the subscription was immediately cancelled
+- Fixed the access code entry screen so that the access code can now be entered correctly
+
+### Added
+- The video view_quality has been added to the video_view create API so that the quality at which clinician portal homework videos are watched at is stored
+- Updates to the live session to support suds ratings in a mobile phone live session
+- Updated the My Details page in Settings so that clinician clients can view their name and email
+- Added the ability to auto-calibrate for both oVRcome headsets without needing to scan
+- Increased the SUDs rating threshold to be 70 instead of 30 in VR
+
+### Removed
+- Removed ability to sign up for C&A programs in the app
+
 ## [1.69.3] - 2025-03-12 - Update to Google Cardboard and Adding Push Notifications
 ### Compatibility
 

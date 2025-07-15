@@ -9,7 +9,20 @@ As the Mobile App supports live sessions between clinicians and clients, we also
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [1.70.1] - 2025-07-01 - Updates to VR Process
+## [1.72.0] - 2025-07-15 - Fix for VR 'x' button bug
+### Compatibility
+
+- Compatible with Clinician Live Session App v0.15.0
+
+### Fixed
+- Fixed a bug where the 'x' button would show up in the field of view in VR and was distracting. It now shows below the field of view.
+
+### Added
+- Added an update where the in app purchasing library needed to be updated for the Play Store requirements
+- Added the filtering out of any Reliant programs from showing up in normal D2C onboarding (future proofing)
+
+
+## [1.71.0] - 2025-07-01 - Updates to VR Process
 ### Compatibility
 
 - Compatible with Clinician Live Session App v0.15.0

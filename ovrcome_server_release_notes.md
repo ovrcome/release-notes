@@ -12,6 +12,22 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.0.10] - 2025-07-24 - Live Session Improvements
+
+### Updated
+
+- Live session app version: 0.15.0
+
+### Added
+
+- Enhanced error logging when starting a live session.
+
+### Fixed
+
+- Fix player controls while live session video is paused.
+- Improve text legibility in live sessions.
+- Enablee SUDS feature for Live Session portal for D2C Live Sessions.
+
 ## [2.0.9] - 2025-07-16 - Admin management improvements
 
 ### Added

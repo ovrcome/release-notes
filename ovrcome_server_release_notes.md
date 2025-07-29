@@ -12,6 +12,13 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.0.12] - 2025-07-29 - Live Session Bug Fix
+
+### Fixed
+
+- Re-enable live session audio functionality after upstream provider outage.
+- Improve default wording when using programs.
+
 ## [2.0.11] - 2025-07-25 - Live Session Bug Fix
 
 ### Added

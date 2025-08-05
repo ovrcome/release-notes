@@ -12,6 +12,12 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.1.3] - 2025-08-05 - UI Improvements
+
+### Changed
+
+- Hide unnecessary UI elements for schools.
+
 ## [2.1.2] - 2025-08-04 - Personalised Instructions
 
 ### Added

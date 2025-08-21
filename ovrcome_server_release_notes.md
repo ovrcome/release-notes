@@ -12,6 +12,25 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.2.3] - 2025-08-21 - Clinicin Portal Improvements
+
+### Fixed
+
+- Improve onboarding experience in certain uncommon scenarios.
+- Prevent registration “submit” buttons from being able to be clicked twice and register you twice by disabling after clicking.
+- Display the “At-Home Use” column for hierarchies in the admin site.
+- Display video view “Quality” column for view_views on the admin site.
+- Fix error generating instructions with non-western writing systems.
+
+### Removed
+
+- Simplify some backend data handling.
+
+### Added
+
+- Preparations for simpler headset calibration process.
+- Added ability to request a resend of your verification email if you’re coming back as a clinician and trying to login when you’ve started but haven’t fully completed your registration process fully yet.
+
 ## [2.2.2] - 2025-08-20 - Live Session Bug Fix
 
 ### Fixes

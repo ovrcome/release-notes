@@ -5,6 +5,12 @@ This file contains public release notes for oVRcome's direct-to-consumer Server 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.3.1] - 2025-08-25 - Backend Content Improvements
+
+### Added
+
+- Preparations for simplifying sharing video content between clinician portal and D2C users.
+
 ## [1.3.0] - 2025-08-25 - Backend Improvements
 
 ### Changed

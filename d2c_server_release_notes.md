@@ -5,6 +5,19 @@ This file contains public release notes for oVRcome's direct-to-consumer Server 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [.1.3.7] - 2025-08-27 - Backend Improvements
+
+### Added
+
+- Additional monitoring of security events.
+- Preparations for new categories of content.
+- Choose a default calming scene for new users.
+- Preparations for streamlined headset calibration experience for users.
+
+### Fixed
+
+- Ensure progress of users is maintained when program structure is changed.
+
 ## [1.3.6] - 2025-08-26 - Program Bug Fix
 
 ### Fixed

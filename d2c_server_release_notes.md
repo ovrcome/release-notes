@@ -5,6 +5,21 @@ This file contains public release notes for oVRcome's direct-to-consumer Server 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.3.10] - 2025-09-01 - Backend Improvements
+
+### Fixed
+
+- Small bug fixes in preparation of new app functionality.
+
+### Changed
+
+- Improvements to handling of certain rare scenarios during onboarding.
+
+### Added
+
+- Preparations for future personalisation of VR plans.
+- Logistics routing rules for large headsets.
+
 ## [1.3.9] - 2025-08-28 - Backend Content Improvements
 
 ### Added

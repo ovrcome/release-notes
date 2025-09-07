@@ -9,6 +9,20 @@ As the Mobile App supports live sessions between clinicians and clients, we also
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.73.0] - 2025-09-08 - Full Introduction of Reliant program and various stability and UX improvements
+### Compatibility
+- Compatible with Clinician Live Session App v0.16.0
+
+### Fixed
+- Fixed various clinician portal, D2C and homework minor bugs.
+- Fixed issue where the "watch in VR" button could be hidden below text description in the VR simulation screens
+- Fixed issue where the wrong icons could show on simulations for audio coaching
+- Fixed some bugs where the "loading" screen would show on the VR plan browse tab, instead of video options to select
+
+### Added
+- Added the Reliant programs
+- Added some improvements to stability and UX experience
+
 ## [1.72.15] - 2025-09-03 - Introduction of Reliant program and various stability and UX improvements
 ### Compatibility
 

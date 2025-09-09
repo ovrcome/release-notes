@@ -12,6 +12,17 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.3.3] - 2025-09-09 - v2.3.3 Clinician Portal Improvements
+
+### Fixed
+- Fixed bug where the wrong clinician images were showing for when clinicians were invited by another clinician to the portal
+
+### Added
+
+- Expand clinic auto-approval by allowing auto-approval in the case where a clinician selects they want to use the portal for a "research_project", provided that they also have a valid licence.
+- Added a new feature flag called “hierarchy_live_session_preview_enabled” that can be enabled/disabled at an org level and also overriden at the clinic level
+- Added clinicianFirstName to the “Clinic Created” Segment event
+
 ## [.2.3.2] - 2025-09-02 - Clinician Portal Improvements
 
 ### Added

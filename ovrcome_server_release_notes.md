@@ -12,6 +12,20 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.3.5] - 2025-09-16 - Backend Improvements
+
+### Added
+
+- Require onboarding ‘other’ selections to also fill the textfield associated with the 'other selection
+
+### Changed
+
+- Hide “exposure readiness” column for schools.
+- Improvements to database structure.
+- Fix rare error when verifying email during registration.
+- Update system dependencies.
+- Remove some deprecated code.
+
 ## [2.3.4] - 2025-09-11 - Content Improvements
 
 ### Added

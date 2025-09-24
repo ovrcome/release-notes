@@ -12,6 +12,16 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.3.7] - 2025-09-24 - Clinician Portal Improvements
+
+### Changed
+
+- Update system dependencies.
+- Improvements to forum login provider.
+- Allow clinicians to collect SUDs scores during live sessions.
+- Allow reactivating deactivated clinicians in self-service admin.
+- Code cleanups.
+
 ## [2.3.6] - 2025-09-19 - Clinicin Portal Improvements
 
 ### Added:

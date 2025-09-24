@@ -5,6 +5,21 @@ This file contains public release notes for oVRcome's direct-to-consumer Server 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.4.0] - 2025-09-24 - Backend Improvements
+
+### Removed
+
+- Retired old therapist, children & adults dashboard.
+
+### Added
+
+- Improved logging context for background jobs.
+- Improvements for customer support visibility of headset details.
+
+### Changed
+
+- Prevent duplicate subscriptions for users.
+
 ## [1.3.15] - 2025-09-19 - Backend Improvements
 
 ### Changed

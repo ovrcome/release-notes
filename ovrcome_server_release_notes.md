@@ -14,8 +14,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [2.3.8] - 2025-09-30 - Clinician Portal Improvements
 
-## [2.3.8] - 2025-10-01 - Clinician Portal Improvements
-
 ### Fixed
 
 - Fix to bug where template hierarchies/programs modal couldn't scroll properly
@@ -350,6 +348,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - Additional logging of live session lifecycle events.
+
 - Improvements to developer experience.
 
 ## [1.33.1] - 2025-05-12 - Minor Clinician Portal Improvements

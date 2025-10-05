@@ -5,6 +5,15 @@ This file contains public release notes for oVRcome's direct-to-consumer Server 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.4.2] - 2025-10-05 - Backend Improvements
+
+### Fixed
+
+- Better tracking of delivery date for sales.
+- Ensure subscriptions are cancelled when removing a user.
+- Improvements to hierarchy generator.
+- Improvements to viewing sale receipts and shipping invoices in certain rare scenarios.
+
 ## [1.4.1] - 2025-09-25 - Backend Improvements
 
 ### Changed

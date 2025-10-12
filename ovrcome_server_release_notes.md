@@ -12,6 +12,21 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.3.10] - 2025-10-12 - Backend Improvements
+
+### Fixed
+
+- Fix handling of videos when they have both tags and triggers.
+
+### Added
+
+- Add Video Quality Assessment feature, so that videos can be internally assessed and marked by those on the admin site as to whether they’re up to acceptable quality.
+
+### Changed
+
+- Automate shipping for NZ headset orders.
+- Update dependencies with latest security updates.
+
 ## [2.3.9] - 2025-10-05 - Clinician Portal Improvements
 
 ### Changed

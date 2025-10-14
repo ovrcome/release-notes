@@ -12,7 +12,7 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [2.3.11] - 2025-10-14 - 
+## [2.3.11] - 2025-10-14 - Clinician Portal Improvements
 
 ### Added
 
@@ -71,7 +71,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Allow reactivating deactivated clinicians in self-service admin.
 - Code cleanups.
 
-## [2.3.6] - 2025-09-19 - Clinicin Portal Improvements
+## [2.3.6] - 2025-09-19 - Clinician Portal Improvements
 
 ### Added:
 
@@ -124,7 +124,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Administration interface improvements for managing clinician details.
 
-## [2.3.1] - 2025-08-26 - Clinicin Portal Improvements
+## [2.3.1] - 2025-08-26 - Clinician Portal Improvements
 
 ### Added
 
@@ -134,7 +134,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Security updates to dependencies.
 
-## [2.3.0] - 2025-08-21 - Clinicin Portal Improvements
+## [2.3.0] - 2025-08-21 - Clinician Portal Improvements
 
 ### Added
 
@@ -144,7 +144,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Fix error generating hierarchies with many triggers.
 
-## [2.2.3] - 2025-08-21 - Clinicin Portal Improvements
+## [2.2.3] - 2025-08-21 - Clinician Portal Improvements
 
 ### Fixed
 
@@ -1086,3 +1086,4 @@ Further improvements to the trial and subscription process
   Relative to what's currently in production, this release restructures how we store subscriptions and trials in our database, and introduces a new approach to trial subscriptions for standalone headsets that will provide more flexibility for customers.
 - Includes standalone headset VR web app at version 0.15.2
 - Includes live session VR web app at version 0.7.0
+

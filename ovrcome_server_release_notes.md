@@ -12,6 +12,22 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.3.11] - 2025-10-14 - 
+
+### Added
+
+- Added the historical video quality assessments for each video, so you can see what assessments have been made previously and view the history for them.
+- Ability to edit client’s email address before resending invites.
+
+### Changed
+
+- Adjusted the video quality assessment feature on the admin site, so that you can now view past video quality assessments and the history of video quality assessments per video.
+
+### Fixed
+
+- Fixed the "Clinician Registered" call, by moving its location to when the clinician is actually created, and passing in the clinician's id instead of the user id.
+- Fix error inviting clinician when client with same email already exists.
+
 ## [2.3.10] - 2025-10-12 - Backend Improvements
 
 ### Fixed

@@ -5,6 +5,17 @@ This file contains public release notes for oVRcome's direct-to-consumer Server 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.4.7] - 2025-10-21 - Backend Improvements
+
+### Fixed
+
+- Fix error generating hierarchies with large pools of available videos.
+
+### Added
+
+- Backend functionality to collect GIC score from users.
+- Backend functionality to collect calibration feedback from users.
+
 ## [1.4.6] - 2025-10-19 - Administration improvements
 
 ### Fixed

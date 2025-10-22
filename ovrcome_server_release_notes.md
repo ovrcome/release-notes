@@ -12,6 +12,17 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.4.1] - 2025-10-22 - Clinicin Portal Improvements
+
+### Added
+
+- Database field to flag AI generated content.
+- Clinician can change email when resending invites to clients.
+
+### Fixed
+
+- Fix bug previewing videos.
+
 ## [2.4.0] - 2025-10-22 - Clinicin Admin Improvements
 
 ### Added

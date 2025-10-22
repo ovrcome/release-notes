@@ -12,6 +12,15 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.4.0] - 2025-10-22 - Clinicin Admin Improvements
+
+### Added
+
+- Add ability for a clinician to revoke client access.
+- Ability to choose access level when inviting colleagues to portal.
+
+This release requires app version v1.74.0 for new functionality to work.
+
 ## [2.3.12] - 2025-10-21 - Clinician Portal Improvements
 
 ### Added

@@ -23,7 +23,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Fix bug previewing videos.
 
-## [2.4.0] - 2025-10-22 - Clinicin Admin Improvements
+## [2.4.0] - 2025-10-22 - Clinician Admin Improvements
 
 ### Added
 
@@ -1112,4 +1112,5 @@ Further improvements to the trial and subscription process
   Relative to what's currently in production, this release restructures how we store subscriptions and trials in our database, and introduces a new approach to trial subscriptions for standalone headsets that will provide more flexibility for customers.
 - Includes standalone headset VR web app at version 0.15.2
 - Includes live session VR web app at version 0.7.0
+
 

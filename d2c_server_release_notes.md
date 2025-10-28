@@ -5,6 +5,20 @@ This file contains public release notes for oVRcome's direct-to-consumer Server 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.4.9] - 2025-10-28 - Backend Improvements
+
+### Removed
+
+- Removed deprecated video analysis service.
+
+### Changed
+
+- Improved performance of background messaging sync task.
+
+### Fixed
+
+- Fix failure to process subscription data webhook in certain rare scenarios.
+
 ## [1.4.8] - 2025-10-23 - Backend Improvements
 
 ### Added

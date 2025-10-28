@@ -12,6 +12,19 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.4.2] - 2025-10-28 - Clinician Portal Improvements
+
+### Added
+
+- Added content request section to the admin site, where admins can view and edit content requests that have come through from clinicians.
+- Added sending of new content requests through to [requests@ovrcome.io](mailto:requests@ovrcome.io). These are then forwarded to Trello automatically and populate there
+- Added a Segment event for when a content request is added
+- Added functionality to require a clinician to give each trigger an intensity rating when requesting content
+
+### Fixed
+
+- Made some UI tweaks to the content request modal and the smart hierarchy generator modal to improve user experience
+
 ## [2.4.1] - 2025-10-22 - Clinicin Portal Improvements
 
 ### Added

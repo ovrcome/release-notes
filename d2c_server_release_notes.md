@@ -5,6 +5,12 @@ This file contains public release notes for oVRcome's direct-to-consumer Server 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.4.10] - 2025-10-30 - Backend Improvements
+
+### Fixed
+
+- Fix issue causing duplicate database records for storing sync data.
+
 ## [1.4.9] - 2025-10-28 - Backend Improvements
 
 ### Removed

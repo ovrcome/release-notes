@@ -5,6 +5,18 @@ This file contains public release notes for oVRcome's direct-to-consumer Server 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.4.12] - 2025-11-12 - Backend Improvements
+
+### Added
+
+- Better control over what videos end up in generated hierarchies.
+- Extract hierarchy generator as external service.
+
+### Fixes
+
+- Fix for incorrect reporting of progress in bespoke reporting.
+- Fix for extra events being created.
+
 ## [1.4.11] - 2025-11-03 - Administration Improvements
 
 ### Changed

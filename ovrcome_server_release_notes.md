@@ -12,6 +12,20 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.5.1] - 2025-11-17 - Clinician Portal Improvements
+
+### Added
+
+- Add 3 new fields to the video quality assessment table and form.
+- Add some new response fields to login for schools product.
+- Add API for fetching gaze data from users doing VRET.
+
+### Updated
+
+- Update system dependencies.
+- Updates to internal test data tooling.
+- Updates to video quality assessment existing fields, to make them all framed positively
+
 ## [2.5.0] - 2025-11-10 - Content Request Mock-ups
 
 ### Added

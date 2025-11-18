@@ -12,7 +12,7 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [2.5.2] - 2025-11-18 - 
+## [2.5.2] - 2025-11-18 - Schools Product Improvements
 
 ### Changed
 
@@ -1166,5 +1166,6 @@ Further improvements to the trial and subscription process
   Relative to what's currently in production, this release restructures how we store subscriptions and trials in our database, and introduces a new approach to trial subscriptions for standalone headsets that will provide more flexibility for customers.
 - Includes standalone headset VR web app at version 0.15.2
 - Includes live session VR web app at version 0.7.0
+
 
 

@@ -12,6 +12,21 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.5.3] - 2025-11-24 - 
+
+### Changed
+
+- Internal improvements to developer container experience.
+- Adds display of statuses for content request progression. When the status is updated on the admin site it updates a clinician friendly messaging on the portal as well.
+
+### Added
+
+- Adds ability to create content requests for clinicians who email them through, by adding them via the admin site ourselves and slotting them into the existing workflow.
+
+### Updated
+
+- Update JS dependencies to address security warnings.
+
 ## [2.5.2] - 2025-11-18 - Schools Product Improvements
 
 ### Changed

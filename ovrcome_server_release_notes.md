@@ -12,6 +12,22 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.6.0] - 2025-12-03 - Bulk Headset Ordering
+
+### Added
+
+- In-portal ordering of multiple headsets.
+- Expose testing metrics to improve code quality visibility.
+- Automatically generate thumbnails for uploaded environments.
+
+### Changed
+
+- Updated how video quality assessments are added and added some more attributes
+- Expose headset_delivered field on authentication of client
+- Update wording on free-premium offer.
+- Optimisation of database connections.
+- Fix rare race condition when saving participant during a live session.
+
 ## [2.5.3] - 2025-11-24 - 
 
 ### Changed

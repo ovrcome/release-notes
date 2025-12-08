@@ -12,6 +12,21 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.6.3] - 2025-12-08 - Clinician Portal Improvements
+
+### Added
+
+- Add icon for school exposure content.
+
+### Removed
+
+- Remove deprecated code for geolocation.
+- Simplify code paths by removing dead code.
+
+### Fixed
+
+- Fix bug when viewing video with tags.
+
 ## [2.6.2] - 2025-12-08 - Clinician Portal Improvements
 
 ### Changed

@@ -12,6 +12,22 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.6.5] - 2025-12-15 - Clinician Portal Improvements
+
+### Changed
+
+- Improvements to APIs for creating clients from app.
+
+### Added
+
+- Added a client_access_code field to the client_details call so the app can see the client access code.
+- Better tracking of clinicians previewing videos in portal.
+- Added APIs to record feedback during live sessions.
+
+### Fixed
+
+- Fixed some bugs in error handlers.
+
 ## [2.6.4] - 2025-12-09 - Clinician Portal Improvements
 
 ### Changed

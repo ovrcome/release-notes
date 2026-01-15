@@ -12,6 +12,18 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.6.8] - 2026-01-15 - Live Session Updates
+
+### Updated
+
+- Live session app version: 0.18.0
+- WebXR app version: 0.20.0
+
+### Added
+
+- Collect gyroscope data from users during VRET.
+- Ability to provide feedback on a video while it is playing in a live session.
+
 ## [2.6.7] - 2026-01-14 - Clinician Portal Improvements
 
 ### Changed

@@ -9,6 +9,12 @@ As the Mobile App supports live sessions between clinicians and clients, we also
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.78.0] - 2026-01-15 - Introduction of the School Version of the App, tweaks and fixes
+- Compatible with Clinician Live Session App v0.18.0
+
+### Notes
+Version 1.78.0 improves stability and the overall app experience. This update adds in-video feedback, automatic headset calibration on login, clearer progress tracking for completed modules, and smoother skill videos with calming scenes. It also includes important bug fixes and performance improvements, including a rare login fix and key under-the-hood updates.
+
 ## [1.73.0] - 2025-09-08 - Full Introduction of Reliant program and various stability and UX improvements
 ### Compatibility
 - Compatible with Clinician Live Session App v0.16.0

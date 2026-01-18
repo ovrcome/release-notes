@@ -12,6 +12,22 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.7.0] - 2026-01-18 - v2.7.0
+
+### Added
+
+- API schema documentation and validation.
+- Improvements to developer experience when deploying to test servers.
+- Admin UI improvements for viewing orders.
+
+### Changed
+
+- Security improvements for cookie attributes.
+
+### Fixed
+
+- Fixes to administration UI when editing demo hierarchies.
+
 ## [2.6.8] - 2026-01-15 - Live Session Updates
 
 ### Updated

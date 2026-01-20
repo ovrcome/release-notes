@@ -12,6 +12,20 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.7.1] - 2026-01-20 - Clinician Portal Improvements
+
+### Added
+
+- Friendlier error messages if clinician can’t be invited.
+
+### Changed
+
+- Improve CSRF protection for clinic pages.
+
+### Fixed
+
+- Fix some API validation errors.
+
 ## [2.7.0] - 2026-01-18 - v2.7.0
 
 ### Added

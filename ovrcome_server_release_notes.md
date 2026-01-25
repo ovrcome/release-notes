@@ -12,6 +12,22 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.8.1] - 2026-01-25 - Clinician Portal Improvements
+
+### Added
+
+- Allow for demo hierarchies to be accessed as general hierarchies for school clients.
+- Added a Segment event to track when Preview Videos are watched by a clinician.
+- Better searching of clinicians in admin UI.
+- Show additional details when viewing clinics in admin UI.
+- Additional validation checks when activating videos in admin UI.
+
+### Fixed
+
+- Prevent duplicate events getting triggered when registering.
+- School and demo clients automatically have headset_delivered set to “large”.
+- Fix some rare corner cases when registering.
+
 ## [2.8.0] - 2026-01-21 - Clinician Portal Improvements
 
 ### Added

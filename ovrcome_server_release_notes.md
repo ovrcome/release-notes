@@ -12,6 +12,17 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.9.0] - 2026-01-26 - Backend Improvements
+
+### Changed
+
+- Improvements to developer experience by optimising loading time when running tests.
+- Rename a database field to better match reality.
+
+### Added
+
+- Preparations for new interactive experiences in app.
+
 ## [2.8.1] - 2026-01-25 - Clinician Portal Improvements
 
 ### Added

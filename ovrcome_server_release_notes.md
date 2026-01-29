@@ -12,6 +12,25 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.9.2] - 2026-01-29 - Backend Improvements
+
+### Added
+
+- Automatically analyse videos and generate metadata about them.
+- Added new status options to clinic filtering on admin site.
+- Added the ability to create, edit and add a game through the admin site.
+- Order routing logic for headset logistics.
+- Additional admin features for removing client records.
+
+### Changed
+
+- Fix error syncing clinician records to CRM in certain scenarios.
+
+### Fixed
+
+- Fix filtering bug on admin clinicians page.
+- Better handling of certain scenarios when inviting clinicians.
+
 ## [2.9.1] - 2026-01-26 - Clinician Portal Improvements
 
 ### Added

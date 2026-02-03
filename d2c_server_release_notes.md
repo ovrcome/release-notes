@@ -5,6 +5,16 @@ This file contains public release notes for oVRcome's direct-to-consumer Server 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.4.19] - 2026-02-03 - Backend Improvements
+
+### Added
+
+- Add flag to prepare for new types of programs in the app.
+
+### Fixed
+
+- Fix bug calculating a user’s progress when they first start a new program.
+
 ## [1.4.18] - 2026-01-26 - Device Compatibility Tool Improvements
 
 ### Changed

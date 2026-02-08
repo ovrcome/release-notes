@@ -12,6 +12,12 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.9.5] - 2026-02-08 - Dependency Updates
+
+### Changed
+
+- Update Ruby version.
+
 ## [2.9.4] - 2026-02-08 - Clinician Portal Improvements
 
 ### Added

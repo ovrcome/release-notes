@@ -12,6 +12,23 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.9.7] - 2026-02-10 - Clinician Portal Improvements
+
+### Added
+
+- Improve messaging when starting a smartphone live session.
+- Include app download instructions on client invite success screen.
+
+### Changed
+
+- Expand scope of free headset offer.
+
+### Fixed
+
+- Fix bug adding content requests in admin interface.
+- Fix colors of new icon.
+- Fix rate limit error during certain scenarios when client takes a long time to verify login.
+
 ## [2.9.6] - 2026-02-08 - Backend Improvements
 
 ### Changed

@@ -359,7 +359,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - Added content request section to the admin site, where admins can view and edit content requests that have come through from clinicians.
-- Added sending of new content requests through to [requests@ovrcome.io](mailto:requests@ovrcome.io). These are then forwarded to Trello automatically and populate there
+- Added sending of new content requests to internal email. These are then forwarded to Trello automatically and populate there
 - Added a Segment event for when a content request is added
 - Added functionality to require a clinician to give each trigger an intensity rating when requesting content
 
@@ -1467,6 +1467,7 @@ Further improvements to the trial and subscription process
   Relative to what's currently in production, this release restructures how we store subscriptions and trials in our database, and introduces a new approach to trial subscriptions for standalone headsets that will provide more flexibility for customers.
 - Includes standalone headset VR web app at version 0.15.2
 - Includes live session VR web app at version 0.7.0
+
 
 
 

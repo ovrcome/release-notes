@@ -9,6 +9,17 @@ As the Mobile App supports live sessions between clinicians and clients, we also
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.82.0] - 2026-02-17 - Move D2C v1 programs to the v2 versions used by Reliant
+- Compatible with Clinician Live Session App v0.18.0
+
+### Changed
+- Changed how D2C programs are displayed and their content, updating them from the old v1 versions to the new v2 versions used by Reliant
+
+### Fixed
+- Fixed bug where the client checkins api wasn’t being called correctly
+- Fixed bug where the AppClosed event wasn’t being fired properly
+- Fixed bug where the video frame rate could drop and appear laggy
+
 ## [1.78.0] - 2026-01-15 - Introduction of the School Version of the App, tweaks and fixes
 - Compatible with Clinician Live Session App v0.18.0
 

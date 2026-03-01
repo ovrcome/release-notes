@@ -24,7 +24,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Preparations for future game functionality in apps.
 - Add content security policy headers.
-- Additional administrative control over free headset offers.
 
 ## [2.11.0] - 2026-02-23 - Dependency Updates
 
@@ -1528,6 +1527,7 @@ Further improvements to the trial and subscription process
   Relative to what's currently in production, this release restructures how we store subscriptions and trials in our database, and introduces a new approach to trial subscriptions for standalone headsets that will provide more flexibility for customers.
 - Includes standalone headset VR web app at version 0.15.2
 - Includes live session VR web app at version 0.7.0
+
 
 
 

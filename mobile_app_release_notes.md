@@ -9,6 +9,24 @@ As the Mobile App supports live sessions between clinicians and clients, we also
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.83.0] - 2026-03-03 - VR navigation, school home updates, and stability fixes
+- Compatible with Clinician Live Session App v0.18.0
+
+### Changed
+- Improved VR calibration screen, including better gaze controls for exiting/recalibrating (OVRCOME-2722)
+- Updated VR pause/exit flow so it’s clearer how to resume or return to the VR menu (OVRCOME-2756)
+- Refreshed VR home screen with clearer controls and program navigation for both demo and standard accounts (OVRCOME-2760)
+- Updated school home page so all programs are visible in a scrollable list, instead of behind a “See all” button (OVRCOME-2771)
+- Platform change to allow a client to be linked to multiple clinicians in the same clinic (OVRCOME-255)
+
+### Fixed
+- Fixed issue where the VR Plan in v2 programs could unlock before all skill modules were completed (OVRCOME-2784)
+- Fixed bug where the wrong program (or a white screen) could appear on the home screen after viewing program details (OVRCOME-2750)
+- Fixed iOS onboarding issue where no subscription plans were available to select in-app (OVRCOME-2767)
+- Fixed VR “Cancel” behaviour so cancelling the exit countdown keeps you in VR as expected (OVRCOME-2725)
+- Stopped demo student accounts from saving video completion progress, so demos can be reused reliably (OVRCOME-2778)
+
+
 ## [1.82.0] - 2026-02-17 - Move D2C v1 programs to the v2 versions used by Reliant
 - Compatible with Clinician Live Session App v0.18.0
 

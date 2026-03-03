@@ -12,6 +12,25 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.11.3] - 2026-03-03 - v2.11.3
+
+### Added
+
+- Additional administrative control over free headset offers.
+- Added relation and repo methods for games.
+
+### Fixed
+
+- Fix error running scheduled background jobs.
+
+### Updated
+
+- Update JS dependencies.
+
+### Changed
+
+- Additional logging for API schema errors.
+
 ## [2.11.2] - 2026-03-01 - Dependency Updates
 
 ### Updated

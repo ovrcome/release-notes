@@ -9,6 +9,12 @@ As the Mobile App supports live sessions between clinicians and clients, we also
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.85.0] - 2026-03-04 - Fix for android startup bug
+- Compatible with Clinician Live Session App v0.18.0
+- 
+### Fixed:
+- Fixed bug where android app could occasionally crash on startup in some situations
+
 ## [1.83.0] - 2026-03-03 - VR navigation, school home updates, and stability fixes
 - Compatible with Clinician Live Session App v0.18.0
 

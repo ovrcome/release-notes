@@ -11,7 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [1.85.0] - 2026-03-04 - Fix for android startup bug
 - Compatible with Clinician Live Session App v0.18.0
-- 
+
 ### Fixed:
 - Fixed bug where android app could occasionally crash on startup in some situations
 

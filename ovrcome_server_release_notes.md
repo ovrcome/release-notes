@@ -12,6 +12,19 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.11.4] - 2026-03-04 - Clinician Portal Improvements
+
+### Added
+
+- Improve debugging capabilities.
+- Add HotJar to content security policy.
+
+### Fixed
+
+- Fix error opening link to deleted video in admin portal.
+- Fix error reordering hierarchies in certain scenarios.
+- Fix logic around adding template/demo hierarchies.
+
 ## [2.11.3] - 2026-03-03 - v2.11.3
 
 ### Added

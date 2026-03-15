@@ -12,6 +12,16 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.11.9] - 2026-03-15 - Clinician Portal Improvements
+
+### Added
+
+- Added the games UI/UX to the portal, so that clinicians can add games to their client’s hierarchies
+
+### Changed
+
+- Updated minimum app version number to 1.85.0
+
 ## [2.11.8] - 2026-03-11 - Backend Fixes
 
 ### Fixed

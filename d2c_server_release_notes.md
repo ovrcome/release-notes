@@ -5,6 +5,13 @@ This file contains public release notes for oVRcome's direct-to-consumer Server 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.4.24] - 2026-03-18 - Backend Improvements
+
+### Added:
+
+- Added a new parameter to the video_view event for view_quality so we can see what quality each view is at for users.
+- Add additional logging to help debug sporadic sync issue.
+
 ## [1.4.23] - 2026-03-15 - Backend Fixes
 
 ### Fixed

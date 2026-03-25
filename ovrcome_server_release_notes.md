@@ -12,6 +12,19 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.11.11] - 2026-03-25 - Clinician Portal Improvements
+
+### Fixed
+
+- Fixed an issue with game scoring where the score would sometimes be inaccurate, especially if the trigger wasn’t visible on screen for the duration of the video.
+- Fix bulk ordering of headsets.
+- Better handling of content generation request failures.
+
+### Added
+
+- Added a Segment tracking event which is triggered when a clinician clicks the “Community” button.
+- Allow specifying only a portion of a video to play.
+
 ## [2.11.10] - 2026-03-16 - Clinician Portal Improvements
 
 ### Added

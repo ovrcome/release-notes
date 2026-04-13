@@ -5,6 +5,14 @@ This file contains public release notes for oVRcome's direct-to-consumer Server 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.4.26] - 2026-04-13 - Backend Improvements
+
+### Updated
+
+- Update shared dependencies with latest security fixes.
+- Allow additional oVRcome origins to access the phone compatibility checker page.
+- Remove checks for “too large” phones now that we only ship large headsets.
+
 ## [1.4.25] - 2026-04-01 - Backend Improvements
 
 ### Fixed

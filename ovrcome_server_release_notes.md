@@ -12,6 +12,16 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.12.0] - 2026-04-15 - v2.12.0
+
+### Added
+
+- Added some updates to the edit hierarchy page to ensure that videos are correctly being added to hierarchies and making this process clearer.
+
+### Changed
+
+- Improvements to visibility and usability of homework.
+
 ## [2.11.14] - 2026-04-15 - v2.11.14
 
 ### Added

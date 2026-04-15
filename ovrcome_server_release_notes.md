@@ -12,6 +12,21 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.11.14] - 2026-04-15 - v2.11.14
+
+### Added
+
+- Add banner at top of site for site-wide announcements.
+- Add authorisation checks to video API.
+
+### Changed
+
+- Update pricing details.
+
+### Fixed
+
+- Fix error when same game and video exist in a hierarchy.
+
 ## [2.11.13] - 2026-04-13 - Backend Improvements
 
 ### Changed

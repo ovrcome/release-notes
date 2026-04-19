@@ -12,6 +12,22 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.13.0] - 2026-04-19 - Hierarchy Generator Improvements
+
+### Changed
+
+- Move hierarchy generator functionality from clinician portal to standalone lambda function for easier development and testing.
+- Changed the copy on the homework enabled buttons, so they better describe the action performed when clicking them.
+- Disabled the live session audio functionality for live sessions.
+
+### Fixed
+
+- Fix rare scenario where hierarchy can’t be generated during onboarding and user is left in waiting loop.
+
+### Added
+
+- Allow setting AI generated video preferences for clinics.
+
 ## [2.12.0] - 2026-04-15 - v2.12.0
 
 ### Added

@@ -9,6 +9,24 @@ As the Mobile App supports live sessions between clinicians and clients, we also
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.86.0] - 2026-04-22 - Adding games and video segments
+- Compatible with Clinician Live Session App v0.19.0
+
+### Added:
+- Added the full games implementation
+- Added the “view_quality” parameter to the video_view user event
+- Added the ability to play only segments of videos
+- Added app version to be sent through with the app_open event
+
+### Removed:
+- Removed the border around the triggers input box to better match Julie’s design
+
+### Fixed:
+- Fixed bug where the fade in and out on some of the school and games panels was incorrect
+- Fixed autosynclocaluser bug
+- Fixed VR DoTween bug
+- Improved calibration UX to make it more clear how to calibrate correctly
+
 ## [1.85.0] - 2026-03-04 - Fix for android startup bug
 - Compatible with Clinician Live Session App v0.18.0
 

@@ -12,6 +12,18 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.16.1] - 2026-04-28 - Clinician Portal Improvements
+
+### Updated
+
+- Add admin option to control live session audio.
+- Improvements to sidebar wording to make next steps clearer.
+- Simplify duration and anxiety rating calculations.
+
+### Added
+
+- Add status "Clinician Feedback Required" for generated content requests.
+
 ## [2.16.0] - 2026-04-22 - Clinician Portal Improvements
 
 ### Added

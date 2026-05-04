@@ -12,6 +12,26 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.16.2] - 2026-05-04 - Clinician Portal Improvements
+
+### Updated
+
+- Update system dependencies to address security alerts.
+- Clean up database schema now that first/last name transition is complete for clinicians.
+
+### Added
+
+- Add icons for games and school psycho-education content.
+- Notify clinicians if a video they are using is removed.
+
+### Changed
+
+- Tweaks to Elasticache configuration.
+
+### Removed
+
+- Remove temporary feature flag now that video trimming is rolled out.
+
 ## [2.16.1] - 2026-04-28 - Clinician Portal Improvements
 
 ### Updated

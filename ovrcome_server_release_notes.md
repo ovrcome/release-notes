@@ -12,6 +12,17 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.16.3] - 2026-05-07 - Clinician Portal Improvements
+
+### Added
+
+- Add a feature to dump debugging information.
+
+### Fixed
+
+- Fix rare corner case where a clinician invites a client who is already a clinician in another clinic.
+- Fix rare corner case when adding a video to a hierarchy that has some inactive and removed videos in it.
+
 ## [2.16.2] - 2026-05-04 - Clinician Portal Improvements
 
 ### Updated

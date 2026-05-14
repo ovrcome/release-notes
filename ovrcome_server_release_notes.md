@@ -12,6 +12,13 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.16.5] - 2026-05-14 - Dependency Updates
+
+### Fixed
+
+- Fix error caused by updated Falcon syntax.
+- Fix error caused by updated connection-pool gem.
+
 ## [2.16.4] - 2026-05-14 - Clinician Portal Improvements
 
 ### Fixed

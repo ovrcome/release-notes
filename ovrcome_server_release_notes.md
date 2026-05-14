@@ -12,6 +12,26 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.16.4] - 2026-05-14 - Clinician Portal Improvements
+
+### Fixed
+
+- Fixed an issue where the community button was available to clinics that had not yet been approved if they were in an org with the community feature flag enabled
+- Fixed a bug where the portal_guide_enabled flag couldn’t be enabled for just certain clinics but had to be set at the org level.
+- Fixed a bug where the wrong phobia filters could show for games
+- Fixed htmx bug where the table row was being reloaded incorrectly when removing a clinician from a client
+- Fix rare corner case when adding a video to a hierarchy that has some inactive and removed videos in it.
+- Fix error where UUID URL parameter was not properly validated.
+
+## Changed
+
+- Update system dependencies.
+
+### Added
+
+- Added a new database table client_feedbacks and a corresponding api endpoint to send data to this table from the mobile app
+- Added more segments to the SUDs rating report section
+
 ## [2.16.3] - 2026-05-07 - Clinician Portal Improvements
 
 ### Added

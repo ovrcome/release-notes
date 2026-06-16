@@ -12,6 +12,25 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.0.0] - 2026-06-02 - Subscriptions
+
+### Added
+
+- Introducing the oVRcome professional subscription, billed to a clinic based on the number of active clinicians.
+- Redesigned billing area where you can see all plan details in one place.
+- Allow purchasing a subscription during onboarding.
+- Allow purchasing a subscription through the portal.
+- Allow changing the stored credit card and billing details.
+- See recent invoices.
+- Add a separate “headset orders” section for clinicians to see their headset orders.
+- Add concept of “active clients” for clinics on the free plan.
+- Add new segment event to send “deal_value” which can be mapped to pipedrive
+- Added a new endpoint for setting and getting the minimum_frost_fps value to help improve video playback on lower end devices
+
+### Removed
+
+- Remove deprecated per-client and per-clinician subscriptions.
+
 ## [2.16.8] - 2026-05-27 - Backend Fixes
 
 ### Updated

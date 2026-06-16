@@ -12,6 +12,13 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.0.1] - 2026-06-03 - Clinician Portal Improvements
+
+### Added
+
+- Added a new segment event to record subscriptions, so that the event gets mapped through to pipedrive and updates the deal there.
+- Display tax details during subscription purchase.
+
 ## [3.0.0] - 2026-06-02 - Subscriptions
 
 ### Added

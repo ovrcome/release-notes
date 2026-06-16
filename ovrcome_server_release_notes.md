@@ -12,6 +12,22 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.16.7] - 2026-05-18 - Clinician Portal Improvements
+
+### Fixed
+
+- Fix “join code not found” error when live session is not ended properly.
+- Fix Pipedrive timing bug, where auto-approved clinics Segment events would try to trigger automations in pipedrive before the clinic’s pipedrive details had been set up.
+
+### Added
+
+- Added content request id column to the content requests table in the admin site
+
+### Updated
+
+- Live session app version updated to 0.20.0
+- WebXR app version remains at 0.21.0
+
 ## [2.16.6] - 2026-05-15 - Clinician Portal Bug Fixes
 
 ### Fixed

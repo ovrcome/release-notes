@@ -12,6 +12,17 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.1.0] - 2026-06-16 - v3.1.0
+
+### Changed
+
+- Improvements to VR library searching, tolerating typos and returning better results.
+
+### Added
+
+- Attach videos to content requests and have them display on the admin site and also in the portal, with them be directly able to be added to client’s hierarchies through the portal.
+- Added the ability to edit admin notes for subscriptions in the admin site
+
 ## [3.0.3] - 2026-06-09 - Clinician Portal Improvements
 
 ### Added

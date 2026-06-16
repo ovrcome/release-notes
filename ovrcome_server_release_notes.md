@@ -12,6 +12,18 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.0.2] - 2026-06-07 - Clinician Portal Improvements
+
+### Updated
+
+-   Updated the `headset_delivered` field on the client table so that it always sends through the “large” headset now.
+-   Updated the content request mailer email template to give more relevant information.    
+-   Updated the placeholder text for the content request prompt input box.    
+-   Only show relevant tax ID (GST, VAT, etc) on subscription invoices.    
+-   Fixes for editing clinicians in admin HQ.    
+-   Update system dependencies.    
+-   Add additional domains to content security policy.
+
 ## [3.0.1] - 2026-06-03 - Clinician Portal Improvements
 
 ### Added

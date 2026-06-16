@@ -12,6 +12,23 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.0.3] - 2026-06-09 - Clinician Portal Improvements
+
+### Added
+
+- Added the ability to sort the client list by name and date added
+- Added the ability to bulk select and remove videos from a hierachy
+- Allow excluding clinicians from billing in certain scenarios.
+
+### Updated
+
+- Updated the admin site to show content requests per clinician
+
+### Fixed
+
+- Fix error when attempting to log in as an invited user.
+- Fix login loop after abandoning onboarding as an invited user.
+
 ## [3.0.2] - 2026-06-07 - Clinician Portal Improvements
 
 ### Updated

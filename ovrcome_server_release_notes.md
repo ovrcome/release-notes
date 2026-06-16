@@ -12,6 +12,13 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.16.6] - 2026-05-15 - Clinician Portal Bug Fixes
+
+### Fixed
+
+- Fix server error during registration if invalid URL is used.
+- Fix error during onboarding when claiming free headset.
+
 ## [2.16.5] - 2026-05-14 - Dependency Updates
 
 ### Fixed

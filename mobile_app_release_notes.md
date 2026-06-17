@@ -9,6 +9,22 @@ As the Mobile App supports live sessions between clinicians and clients, we also
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.87.0] - 2026-06-18 - VR and UX Improvements
+- Compatible with Clinician Live Session App v0.20.0
+
+### Fixed:
+- Attempt to fix the “load failed due to insufficient resources bug”
+- Fix for bug where VR resources can be playable before access is given to them
+- Fix for bug where school VR page could be blank after leaving VR
+
+### Updated:
+- Updated SUDs rating slider so that you must rate the video and can’t just submit a SUDs of 0.
+
+### Added:
+- Show video length seconds on game details screen
+- Added ability to send clinician client feedback to the oVRcome server
+- Added the new VR tip about turning on “Do Not Disturb” before entering VR
+
 ## [1.86.0] - 2026-04-22 - Adding games and video segments
 - Compatible with Clinician Live Session App v0.19.0
 

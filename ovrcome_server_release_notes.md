@@ -12,6 +12,34 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.2.1] - 2026-06-18 - Clinician Portal Improvements
+
+### Changed
+
+- Improved searching, including better feedback on filtering operations.
+- Easier versioning of live session apps.
+- Add additional exposures in logs to make metric generation easier.
+- Simpler / clearer display of per-clinician plan details.
+- Simpler admin editing and change tracking of AI assistant configuration data.
+
+### Added
+
+- Added the ability to copy a video from one client’s hierarchy to any other client hierarchy within the clinician’s clinic
+- Add a standalone headset order page for app users.
+
+### Removed
+
+- Removed the minimum frost fps upper limit of 120 frames
+
+### Fixed
+
+- Fix an error when hierarchy containing zero videos is fetched by the app.
+
+### Updated
+
+- Update shared dependencies with latest security fixes.
+- Improve how Ruby version is exposed to Dependabot.
+
 ## [3.2.0] - 2026-06-16 - Subscription Improvements
 
 ### Added

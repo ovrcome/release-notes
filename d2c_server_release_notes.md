@@ -5,6 +5,17 @@ This file contains public release notes for oVRcome's direct-to-consumer Server 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.4.29] - 2026-06-18 - Backend Improvements
+
+### Updated
+
+- Update shared dependencies with latest security updates.
+- Tweak how Ruby version is exposed to Dependabot.
+
+### Changed
+
+- Improve display of similar categories in admin HQ to avoid confusion.
+
 ## [1.4.28] - 2026-04-28 - Dependency Updates
 
 ### Updated

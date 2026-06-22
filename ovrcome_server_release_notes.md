@@ -12,6 +12,17 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.3.1] - 2026-06-22 - Clinician Portal Improvements
+
+### Updated
+
+- Upgrade to new version of Sidekiq.
+
+### Fixed
+
+- Fix issue editing clinic users in admin.
+- Small tweaks to content security policy.
+
 ## [3.3.0] - 2026-06-22 - Dependency Updates
 
 ### Updated

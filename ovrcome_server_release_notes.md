@@ -12,6 +12,24 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.3.2] - 2026-06-25 - Clinician Portal Improvements
+
+### Updated
+
+- Improved the AI chat widget so it can be minimised so that it doesn’t cover buttons etc underneath it.
+- Update content security policy to handle some redirects.
+- Update system dependencies.
+
+### Added
+
+- Added the ability to filter by subscription prospect for clinic users on the admin site.
+- Add UI for loading bespoke subscriptions through admin site.
+
+### Fixed
+
+- Fix exception when encountering an exception in development mode.
+- Fix display inconsistency when selecting a subset of clinicians and adding a voucher while purchasing a subscription.
+
 ## [3.3.1] - 2026-06-22 - Clinician Portal Improvements
 
 ### Updated

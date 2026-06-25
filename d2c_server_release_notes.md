@@ -5,6 +5,17 @@ This file contains public release notes for oVRcome's direct-to-consumer Server 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.4.30] - 2026-06-25 - Backend Improvements
+
+### Fixed
+
+- Fix sync error when replacing upload content for existing videos.
+- Fix content security policy to allow playing audio files on staging site.
+
+### Added
+
+- Add a task to rename category ids to match production database.
+
 ## [1.4.29] - 2026-06-18 - Backend Improvements
 
 ### Updated

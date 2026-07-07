@@ -12,6 +12,21 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.3.3] - 2026-07-07 - Clinician Portal Improvements
+
+### Added
+
+- Allow clinicians to share content requests with other clinicians in their clinic.
+
+### Fixed
+
+- Restricted the ability to log into the mobile app to only clients of an approved clinic. Previously, clients of a pending or rejected clinic could still log into the app.
+- Small improvements to subscription viewing and editing in admin portal.
+
+### Updated
+
+- Updated onboarding flows to allow for template programs to be added.
+
 ## [3.3.2] - 2026-06-25 - Clinician Portal Improvements
 
 ### Updated

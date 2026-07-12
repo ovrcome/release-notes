@@ -12,6 +12,22 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.3.4] - 2026-07-12 - Clinician Portal Improvements
+
+### Updated
+
+- Updated how hot prospects for subscriptions are shown by excluding those who don’t use subscriptions and this is not applicable.
+- Improvements to category and video syncing scripts for synchronising content between servers.
+- Live session version updated to 0.21.5.
+
+### Fixed
+
+- Fix blurring in VR library background when previewing a video.
+
+### Added
+
+- Add ability to show PPG data in live sessions.
+
 ## [3.3.3] - 2026-07-07 - Clinician Portal Improvements
 
 ### Added

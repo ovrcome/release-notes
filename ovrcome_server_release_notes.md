@@ -12,6 +12,21 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.3.5] - 2026-07-13 - Clinician Portal Improvements
+
+### Added
+
+- Add UI for uploading category icons in admin portal.
+
+### Updated
+
+- Update GitHub action versions.
+
+### Fixed
+
+- Fix misconfiguration when generating subresource integrity hashes.
+- Ensure clients are ready for homework and live sessions after onboarding.
+
 ## [3.3.4] - 2026-07-12 - Clinician Portal Improvements
 
 ### Updated

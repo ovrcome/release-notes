@@ -12,6 +12,16 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.3.7] - 2026-07-20 - Clinician Portal Improvements
+
+### Added
+
+- Added a message to notify people if their subscription is ending in 5 days or less and not automatically renewing.
+
+### Fixed
+
+- Fix issue when generating voice-overs for long scripts.
+
 ## [3.3.6] - 2026-07-17 - Clinician Portal Improvements
 
 ### Added

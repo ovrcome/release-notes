@@ -12,6 +12,17 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.4.0] - 2026-07-22 - Clinician Portal Improvements
+
+### Updated
+
+- Update hanami-mailer gem.
+- Update the onboarding flow for US clinicians to only show the headset purchase page if the clinic has been auto-approved.
+
+### Added
+
+- Allow clinics to upload custom branding and icons, and show them in emails to clients.
+
 ## [3.3.7] - 2026-07-20 - Clinician Portal Improvements
 
 ### Added

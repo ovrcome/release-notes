@@ -12,6 +12,18 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.4.1] - 2026-07-27 - Clinician Portal Improvements
+
+### Updated
+
+- Update how pipedrive works so that test users don’t get added, and switch each deal to be per clinic instead of per clinician, with multiple clinicians added as participants. Make sure that creating clinics and clinicians through the admin site adds them to pipedrive, and make sure newly invited clinicians are also added to the correct clinic deal.
+- Update shared dependencies.
+
+### Fixed
+
+- Fix error sending headset shipped email.
+- Fix error reporting when clinic logo/branding image upload fails.
+
 ## [3.4.0] - 2026-07-22 - Clinician Portal Improvements
 
 ### Updated

@@ -12,6 +12,11 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.6.1] - 2026-08-12 - Clinician Portal Improvements
+
+### Updated
+- Updated segment to pipedrive mappings and events to make sure that pipedrive is up to date
+
 ## [3.6.0] - 2026-08-12 - Template Hierarchies
 
 ### Added

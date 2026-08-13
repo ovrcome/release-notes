@@ -17,6 +17,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Updated
 - Updated segment to pipedrive mappings and events to make sure that pipedrive is up to date
 
+### Changed
+
+- Remove “check here” compatibility lookup link from headset ordering page as it doesn’t work properly with in-app browser.
+
+### Added
+
+- Add recommendations page placeholder.
+
 ## [3.6.0] - 2026-08-12 - Template Hierarchies
 
 ### Added

@@ -5,6 +5,16 @@ This file contains public release notes for oVRcome's hierarchy generator backen
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.1.1] - 2026-08-20 - Backend Improvements
+
+### Fixed
+
+- Improvements to selecting triggers.
+
+### Added
+
+- Additional logging.
+
 ## [1.1.0] - 2026-04-19 - Functional Improvements
 
 ### Added

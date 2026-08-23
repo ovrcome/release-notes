@@ -12,6 +12,23 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.6.4] - 2026-08-23 - Clinician Portal Improvements
+
+### Updated
+
+- Update linter dependency in CI workflow.
+
+### Fixed
+
+- Fix styling of upload buttons in admin UI.
+
+### Added
+
+- Added a new profile page to the app where clinicians can update their details and upload a profile picture
+- Added the feature where client names are hidden by default in the client index view. Also added a search bar to search through clients.
+- Add additional catches and protections for spammed signups.
+- Simplify process of downloading original videos in admin portal.
+
 ## [3.6.3] - 2026-08-19 - Clinician Portal Improvements
 
 ### Updated

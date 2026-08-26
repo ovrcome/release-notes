@@ -12,6 +12,18 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.7.0] - 2026-08-26 - Clinician Portal Improvements
+
+### Added
+
+- Added the license and state insurer networks to clinician onboarding and the profile page.
+
+### Updated
+
+- Updated how the client index hide feature works so searching doesn’t hide client names again.
+- Update ruby version.
+- Add additional domains to the content security policy.
+
 ## [3.6.4] - 2026-08-23 - Clinician Portal Improvements
 
 ### Updated

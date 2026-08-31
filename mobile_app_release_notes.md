@@ -9,6 +9,42 @@ As the Mobile App supports live sessions between clinicians and clients, we also
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.89.0] - 2026-09-01 - VR and UX Improvements
+- Compatible with Clinician Live Session App v0.21.0
+
+### Fixed
+- Fixed bug where audio coach audio could show up in reliant VR plan videos (see comment in ticket)
+- Fixed bug where the RANZCP link wasn’t working correctly
+- Fixed bug where “check here” button would go to incorrect page - ended up just disabling this on the server so is no longer relevant at the moment - test would be to see if the “check here” button still shows when purchasing a headset through the app
+- Attempt to fix bug where app can flash sometimes
+- Fixed a bug where the VR tutoral panels could show up in other VR if you exit the tutorial early
+- Fixed a bug where if you were on a zoom/google meet meeting and a live session at the same time, the live session would take over the audio, but the clinician wouldn’t be able to hear you, so just disabled live session audio since it’s not used anyway
+- Fixed flow of scanning a other brand headset
+
+### Added
+- Added the driving program constants
+- Display clinician profile picture if one exists in live session notification
+
+## [1.88.0] - 2026-08-25 - App Simplification
+- Compatible with Clinician Live Session App v0.21.0
+
+### Added:
+- Added the ability to connect to the sandbox server on the mobile app
+- Added optional deep breathing exercise for users with high SUDS
+- Added the ability for d2c users to order new VR headsets from the settings page
+
+### Fixed:
+- Fix for bug where tags wouldn’t show properly for non-exposure videos
+- Fixed dynamic frost affect breaking on mobile
+- Fixed a bug where the SUDs anxiety slider would break when rating at 100
+
+### Updated:
+- Replaced old doozy popups
+
+### Removed:
+- Removed all doozy elements and references
+- Removed 70+ old unused screens
+
 ## [1.87.0] - 2026-06-18 - VR and UX Improvements
 - Compatible with Clinician Live Session App v0.20.0
 

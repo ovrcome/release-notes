@@ -12,6 +12,18 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.8.1] - 2026-09-01 - Backend Improvements
+
+### Added
+
+- Improvements to video voiceover creation tool: allow trimming videos in the admin tool.
+- Improvements to video voiceover creation tool: allow adding pauses to start and end of videos.
+- Add ability to generate VR environments from images when requesting content.
+
+### Fixed
+
+- Fix two different error scenarios when downloading original video files from admin portal.
+
 ## [3.8.0] - 2026-08-31 - Clinician Portal Improvements
 
 ### Changed

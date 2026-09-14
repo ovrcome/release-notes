@@ -12,6 +12,22 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.8.3] - 2026-09-14 - Clinician Portal Improvements
+
+### Changed
+
+- Hide clinic-level feature flags section in admin when there aren’t any.
+
+### Added
+
+- Add Typeform → Wellness App server setup.
+- Add PDF generation and attach them to emails.
+- Show client’s privacy consent status to clinicians, and allow revoking consent in admin.
+
+### Updated
+
+- Update shared dependencies.
+
 ## [3.8.2] - 2026-09-09 - Clinician Portal Improvements
 
 ### Added

@@ -9,6 +9,13 @@ As the Mobile App supports live sessions between clinicians and clients, we also
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.90.0] - 2026-09-16 - Add Consent and Wellness App
+- Compatible with Clinician Live Session App v0.21.0
+
+### Added
+- Added privacy policy consent for clients
+- Add the Wellness App
+
 ## [1.89.0] - 2026-09-01 - VR and UX Improvements
 - Compatible with Clinician Live Session App v0.21.0
 

@@ -12,6 +12,24 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.8.4] - 2026-09-16 - Clinician Portal Improvements
+
+### Removed
+
+- Removed the license component from the clinician profile page.
+
+### Updated
+
+- Updated client provisioning for the wellness app so that only email and name are required if "provision_when_contact_details_present": true.
+- Small tweaks to content security policy.
+- Update shared dependencies.
+
+### Fixed
+
+- Improvements to exception logging.
+- Improvements to validation error logging.
+- Update OpenAPI schema with recent changes.
+
 ## [3.8.3] - 2026-09-14 - Clinician Portal Improvements
 
 ### Changed

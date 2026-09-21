@@ -12,6 +12,17 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.8.5] - 2026-09-21 - Hierarchy Generator Improvements
+
+### Changed
+
+- Generate hierarchies using a background job to prevent timeouts.
+- Change from “age” to “age range”.
+- Set volume of background audio when creating voiceovers.
+- Allow downloading audio from created voiceovers in admin portal.
+- Improvements to performance of generating voiceovers with long starting/ending pauses.
+- More deterministic TTS generation for voiceovers.
+
 ## [3.8.4] - 2026-09-16 - Clinician Portal Improvements
 
 ### Removed

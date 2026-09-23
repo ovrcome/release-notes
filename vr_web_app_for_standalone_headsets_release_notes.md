@@ -1,6 +1,6 @@
-# Release notes for oVRcome's Clinician Live Session App
+# Release notes for oVRcome's VR Web Live Session App for Standalone Headsets
 
-This file contains public release notes for oVRcome's VR Web App for Standalone Headsets. This is a Unity app which can be accessed by clinicians via the Clinician portal web interface.
+This file contains public release notes for oVRcome's VR Web App for Standalone Headsets. This is a Unity app which can be accessed by clients via a compatible headset such as the Meta Quest 3.
 
 For each release we note where we've Added, Changed, Fixed, or Removed code.
 

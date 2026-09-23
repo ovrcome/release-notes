@@ -9,6 +9,27 @@ We also note compatibility of each release with the Mobile App and the VR web ap
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.23.0] - 2026-09-24 - Physiological Data Display Stability Fix
+
+### Compatibility
+- Compatible with VR web app for standalone headsets TODO:version
+- Compatible with Mobile App v1.90.0
+- Compatible with oVRcome Connect (Android Smartwatch) App v1.0.3
+
+### Added
+
+- Added functionality to process multiple PPG data chunks in one batch.
+
+### Changed
+
+- Changed HeartRate Estimator to allways be calculating a backup heart rate value off of the ppg values.
+
+### Fixed
+
+- Major improvements to the HeartRate Estimator fallback.
+- Fixed graph timeline issue so now graph point divisions and new point additions are consistent.
+- Fixed bug where graph plotting was takling twice as long as it should.
+
 ## [0.13.0] - 2025-03-17 - Live Session Improvements
 
 ### Added

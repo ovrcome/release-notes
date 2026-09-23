@@ -1,6 +1,6 @@
-# Release notes for oVRcome's Android Smartwatch oVRcome Connect App
+# Release notes for oVRcome's oVRcome Connect App for Android Smartwatches
 
-This file contains public release notes for oVRcome's Android Smartwatch oVRcome Connect app. This is a Kotlin app which can be accessed by clients via the Google Playstore.
+This file contains public release notes for oVRcome's oVRcome Connect app for Android Smartwatches. This is a Kotlin app which can be accessed by clients via the Google Playstore.
 
 For each release we note where we've Added, Changed, Fixed, or Removed code.
 
@@ -13,19 +13,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Compatibility
 - Compatible with Clinician Live Session app v0.23.0
+- Compatible with VR web app for standalone headsets TODO:version
+- Compatible with Mobile App v1.90.0
 
 ### Added
 
-- TODO
-
-### Changed
-
-- TODO
-
-### Fixed
-
-- TODO
-
-### Removed
-
-- TODO
+- Base functionality of the entire oVRcome Connect app.

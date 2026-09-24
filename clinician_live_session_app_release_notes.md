@@ -18,11 +18,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- Updated Unity version from 6000.2 to 6000.3
 - Added functionality to process multiple PPG data chunks in one batch.
 
 ### Changed
 
 - Changed HeartRate Estimator to allways be calculating a backup heart rate value off of the ppg values.
+- Setup the fallback to occur even when the hr values are valid but all zeros for some reason.
 
 ### Fixed
 

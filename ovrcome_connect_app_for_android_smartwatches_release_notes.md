@@ -9,7 +9,7 @@ As the oVRcome Connect App primarily connects to live sessions between clinician
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.?.?] - 2026-??-?? - Initial Public Release
+## [1.0.3] - 2026-09-25 - Initial Public Release
 
 ### Compatibility
 - Compatible with Clinician Live Session app v0.23.0
@@ -19,3 +19,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - Base functionality of the entire oVRcome Connect app.
+- Connects with the oVRcome platform during live sessions.
+- Provides live heart rate data from the smartwatch.
+- Evaluates the quality of heart rate sensor data.
+- Maintains an Ongoing Activity so users can leave and return to the app during the activity.
+- Design to match oVRcome’s branding

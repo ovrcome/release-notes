@@ -12,6 +12,35 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.8.6] - 2026-09-27 - Clinic
+
+### Added
+
+- Added the ability for all Wellness Clinicians to see all Wellness Clients.
+- Assemble multiple video segments into one continuous video montage.
+
+### Updated
+
+- Persist the clinic users preference to hide or show clients.
+- Update content security policy.
+
+### Changed
+
+- New sign-in/pairing experience on standalone VR headsets.
+- Ignore changes to database structure dump file.
+
+### Removed
+
+- Removed Hotjar widget.
+
+### Fixed
+
+- Improvements and reliability fixes to test environment seeding/syncing script.
+- Voiceovers now have correct duration calculated when using pauses and/or trimming.
+- Fix TTS error when using very long scripts.
+- Fix lookup errors when Veo3 job was not found.
+- Allow changing clinician profile image when using test clinic without subscriptions.
+
 ## [3.8.5] - 2026-09-21 - Hierarchy Generator Improvements
 
 ### Changed

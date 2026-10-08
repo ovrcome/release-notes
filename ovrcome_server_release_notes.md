@@ -12,6 +12,18 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.8.8] - 2026-10-08 - v3.8.8
+
+### Added:
+- Added a public api for the public facing Wellness app
+
+### Updated:
+- When a video with a voiceover script is created, the script is put in a different field
+- Updated column name “triggers” to “triggers/tags” on portal
+
+### Fixed:
+- Fixed an issue where removing a video from a hierarchy that has both tags and triggers could cause an error
+
 ## [3.8.7] - 2026-09-29 - v3.8.7
 
 ### Fixed

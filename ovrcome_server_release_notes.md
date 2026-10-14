@@ -12,6 +12,29 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.9.0] - 2026-10-14 - Clinician Portal Improvements
+
+### Added
+
+- Track changes to client active status.
+- Add find-a-client process.
+- Implement process for transferring clients between clinics.
+- Added mappings for new live session events
+
+### Updated
+
+- Update Ruby version.
+- Update JS package dependencies.
+
+### Changed
+
+- Improvements to developer experience when handling page redirects.
+- Bypass subscription requirements for new clinics in certain scenarios.
+
+### Fixed
+
+- Allow searching for direct to customer headset orders in admin.
+
 ## [3.8.8] - 2026-10-08 - v3.8.8
 
 ### Added:

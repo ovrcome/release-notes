@@ -12,6 +12,22 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.9.1] - 2026-10-20 - Clinician Portal Improvements
+
+### Added
+
+- Added mappings for new live session events.
+- Added tracking for Wellness home page views.
+- Clinics can allow clinicians to charge headset purchases to the clinic.
+- Log device type previewing videos in the portal.
+- Redirect VR headsets to the dedicated VR experience page; no longer allow them to log in to the portal.
+
+### Changed
+
+- NZ orders now get large headsets automatically.
+- Improvement to migration rollback ordering.
+- Improvements to developer experience building assets locally.
+
 ## [3.9.0] - 2026-10-14 - Clinician Portal Improvements
 
 ### Added

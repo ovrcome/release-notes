@@ -9,6 +9,12 @@ As the Mobile App supports live sessions between clinicians and clients, we also
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.91.1] - 2026-10-28 - Fix 16kb Memory Issue for Android
+- Compatible with Clinician Live Session App v0.21.0
+
+### Updated:
+- Updated some packages causing some android devices with 16kb memory to crash upon opening the app.
+
 ## [1.91.0] - 2026-10-22 - Fix Freezing Issue for iphone 17
 - Compatible with Clinician Live Session App v0.21.0
 

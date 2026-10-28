@@ -12,6 +12,13 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.10.0] - 2026-10-28 - Authentication Improvements
+
+### Added
+
+- New authentication system, now supporting MFA for clinician log ins.
+- Clinicians can now see their clients' game scores in the portal via the hierarchy and reports pages
+
 ## [3.9.1] - 2026-10-20 - Clinician Portal Improvements
 
 ### Added

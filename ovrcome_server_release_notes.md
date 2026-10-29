@@ -12,6 +12,18 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.10.1] - 2026-10-29 - Clinician Portal Bug Fixes
+
+### Fixed
+
+- Fix layout of sidebar on small screens.
+- Fix error when editing a deleted video in admin.
+- Automatically resubmit content requests when Veo3 suffers from internal server error.
+- Fix CI test profiler not running.
+- Fix CI tests failing to run due to Github runner image version update.
+- Fix untranslated MFA error strings.
+- Fix timestamps for log messages.
+
 ## [3.10.0] - 2026-10-28 - Authentication Improvements
 
 ### Added

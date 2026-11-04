@@ -12,6 +12,12 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.10.5] - 2026-11-04 - Infrastructure Improvements
+
+### Changed
+
+- Change system architecture to ARM.
+
 ## [3.10.4] - 2026-11-04 - Clinician Portal Improvements
 
 ### Added

@@ -5,6 +5,21 @@ This file contains public release notes for oVRcome's direct-to-consumer Server 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.6.0] - 2026-11-08 - Infrastructure Improvements
+
+### Fixed
+
+- Fix syncing of voiceovers / montages between environments.
+
+### Changed
+
+- Change hosting configurations to reduce resource usage.
+- Store secrets in AWS SSM.
+
+### Updated
+
+- Update Ruby version.
+
 ## [1.5.3] - 2026-08-31 - Backend Improvements
 
 ### Changed

@@ -5,11 +5,11 @@ This file contains public release notes for oVRcome's direct-to-consumer Server 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [1.6.1] - 2026-11-10 - Inf
+## [1.6.1] - 2026-11-10 - Infrastructure Improvements
 
-Added
+### Added
 
-    Add CloudFront CDN and WAF.
+- Add CloudFront CDN and WAF.
 
 ## [1.6.0] - 2026-11-08 - Infrastructure Improvements
 

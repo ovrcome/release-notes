@@ -12,6 +12,20 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.10.9] - 2026-11-11 - Clinician Portal Improvements
+
+### Updated
+
+- Update portal dependencies.
+
+### Changed
+
+- Show clinic registration date in admin list view.
+
+### Fixed
+
+- Better handling of transient errors during background jobs.
+
 ## [3.10.8] - 2026-11-10 - Clinician Portal Bug Fixes
 
 ### Fixed

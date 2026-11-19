@@ -12,6 +12,22 @@ This file contains public release notes for oVRcome's Server Software, which inc
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.10.11] - 2026-11-19 - Clinician Portal Improvements
+
+### Fixed
+
+- Fix some bugs when transferring clients between clinics.
+- Fix bug where some people couldn’t complete onboarding in Chrome.
+
+### Added
+
+- Allow linking chat assistant rules to specific products.
+- Add Datadog RUM error tracking for frontend JS.
+
+### Removed
+
+- Remove ProductFruits JS.
+
 ## [3.10.10] - 2026-11-16 - Backend Fixes
 
 ### Updated
